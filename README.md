@@ -21,3 +21,7 @@ $ cd cmd/server/
 $ go run main.go
 # localhost:9090 for a JSON formatter
 ```
+
+# References
+
+Go to [docs/references.md](./docs/references.md)
